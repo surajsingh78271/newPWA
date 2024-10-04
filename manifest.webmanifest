@@ -62,5 +62,7 @@
   "lang": "en",
   "categories": [
     "education"
-  ]
+  ],
+  "orientation": "portrait",
+  "prefer_related_applications": false
 }
